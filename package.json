@@ -1,0 +1,15 @@
+{
+  "name": "nep-timetable-navigator",
+  "version": "1.0.0",
+  "description": "A web-based AI timetable generation system aligned with NEP 2020.",
+  "private": true,
+  "scripts": {
+    "start": "echo \"This is a static HTML file. Just open index.html in a browser.\" && exit 1"
+  },
+  "keywords": [
+    "timetable",
+    "nep2020",
+    "ai"
+  ],
+  "author": ""
+}
